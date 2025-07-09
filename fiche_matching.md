@@ -1,6 +1,6 @@
-# 🔍 Fiche de Matching – Projet Dev (9 mois)
+# 🔍 Fiche de Matching 
 
-> À remplir individuellement. Vos réponses permettront de constituer des groupes compatibles techniquement et humainement pour un projet long (9 mois).
+> À remplir individuellement.
 
 ---
 
@@ -19,7 +19,7 @@
 | Git / GitHub          | ☐              | ☐         | ☐           | ☐                |
 | Base de données (SQL) | ☐              | ☐         | ☐           | ☐                |
 | Docker                | ☐              | ☐         | ☐           | ☐                |
-| API REST / FastAPI    | ☐              | ☐         | ☐           | ☐                |
+| API                   | ☐              | ☐         | ☐           | ☐                |
 
 ---
 
@@ -78,8 +78,29 @@
 
 ---
 
-## 🌟 Partie 3 – Collaboration & motivation
-
 ### 10. Ton objectif personnel principal dans ce projet :
 - [ ] Monter en compétences techniques
-- [ ] Construire un vrai proje
+- [ ] Construire un vrai projet pour mon portfolio
+- [ ] Travailler en équipe sur la durée
+- [ ] Me préparer pour une alternance / un poste
+- [ ] Autre : _______________
+
+---
+
+### 11. Dans un groupe, tu es plutôt :
+- [ ] Leader naturel·le
+- [ ] Facilitateur·rice / Communicant·e
+- [ ] Tech lead / Architecte
+- [ ] Exécutant·e efficace
+- [ ] Polyvalent·e
+
+---
+
+### 12. Qu’est-ce qui est non-négociable pour toi dans un projet en équipe ?
+> (Réponse libre, 1 à 2 phrases)
+
+---
+
+
+
+
